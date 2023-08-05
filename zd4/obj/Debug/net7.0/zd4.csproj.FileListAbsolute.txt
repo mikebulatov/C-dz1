@@ -1,0 +1,15 @@
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/obj/Debug/net7.0/zd4.csproj.AssemblyReference.cache
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/obj/Debug/net7.0/zd4.GeneratedMSBuildEditorConfig.editorconfig
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/obj/Debug/net7.0/zd4.AssemblyInfoInputs.cache
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/obj/Debug/net7.0/zd4.AssemblyInfo.cs
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/obj/Debug/net7.0/zd4.csproj.CoreCompileInputs.cache
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/bin/Debug/net7.0/zd4
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/bin/Debug/net7.0/zd4.deps.json
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/bin/Debug/net7.0/zd4.runtimeconfig.json
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/bin/Debug/net7.0/zd4.dll
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/bin/Debug/net7.0/zd4.pdb
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/obj/Debug/net7.0/zd4.dll
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/obj/Debug/net7.0/refint/zd4.dll
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/obj/Debug/net7.0/zd4.pdb
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/obj/Debug/net7.0/zd4.genruntimeconfig.cache
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz1/zd4/obj/Debug/net7.0/ref/zd4.dll
