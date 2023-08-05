@@ -5,3 +5,20 @@ Console.Write("Введите 1е число:");
 num1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите 2е число:");
 num2 = Convert.ToInt32(Console.ReadLine());
+if(num1==num2)
+
+{
+    Console.WriteLine("числа равны");
+    }
+else
+{
+
+    if(num1>num2)
+    {
+        Console.WriteLine("1е число больше 2го");
+    }
+    else
+    {
+        Console.WriteLine("2е число больше 1го");
+    }
+}
